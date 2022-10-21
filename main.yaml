@@ -1,0 +1,17 @@
+---
+# Username or name
+account: sagocodes
+
+# Twitter API keys
+# https://www.buymeacoffee.com/sagocodes/how-create-twitter-developer-account
+access_token: 
+access_token_secret: 
+
+consumer_key: 
+consumer_secret: 
+
+# List of usernames to track
+usernames:
+  - sago
+  - code
+  - python
