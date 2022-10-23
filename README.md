@@ -9,7 +9,7 @@ Using [tweepy](https://tweepy.readthedocs.io/) and [snscrape](https://github.com
 ## Usage
 
 ```
-$ python main.py --help --ignore--gooey
+python main.py --help --ignore--gooey
 
 usage: main.py [-h] yaml_file max_like
 
@@ -41,6 +41,7 @@ usernames:
   - typescript
   - javascript
 ```
+
 
 *DISCLAIMER*
 
